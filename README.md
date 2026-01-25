@@ -1,4 +1,4 @@
-# LGYankees – 3年目の記念日 feat. Noa
+# LGYankees – 3年目の記念日 feat. Noa（feat. Noa）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
