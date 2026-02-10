@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "3年目の記念日 feat. Noa（feat. Noa）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-10T17:49:14.434715Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "3年目の記念日 feat. Noa",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/01_3年目の記念日_feat._Noa_LGYankees.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3年目の記念日",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_3年目の記念日_LGYankees.txt"
+    }
+  ]
+}
